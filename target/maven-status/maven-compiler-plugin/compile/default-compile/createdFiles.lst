@@ -1,0 +1,8 @@
+ru\ultimate\config\StarterUltimateConfiguration.class
+ru\ultimate\App.class
+ru\ultimate\service\CapsService.class
+ru\ultimate\config\ServiceProperties.class
+ru\ultimate\config\StarterUltimateProperties.class
+ru\ultimate\service\LowerService.class
+ru\ultimate\service\TextService.class
+ru\ultimate\service\UltimateService.class
